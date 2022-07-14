@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Sirius</string>
     <string name="button">button</string>
-    <string name="dota_2">DoTa 2</string>
+    <string name="dota_2">DoTA 2</string>
     <string name="_70m">70M</string>
     <string name="moba">MOBA</string>
     <string name="multiplayer">MULTIPLAYER</string>
